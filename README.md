@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning B tech in computer science<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Beginner-friendly Python, Java, and AI/ML mini projects<br>👯 I’m looking to collaborate on Python, Java, and beginner-level AI/ML projects<br>🤝 I’m looking for help with Improving problem-solving skills<br>🌱 I’m currently learning B tech in computer science<br>💬 Ask me about Python basics, Java fundamentals, AI/ML mini projects, and college coding life<br>⚡ Fun fact I enjoy learning tech step by step and love turning simple ideas into projects
 
 
 ## 🌐 Socials:
